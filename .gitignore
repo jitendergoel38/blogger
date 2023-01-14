@@ -1,0 +1,6 @@
+db.sqllite
+.env
+PipFile
+PipFile.lock
+.DS_Store
+djblogger/settings/local.py
