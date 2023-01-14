@@ -1,4 +1,4 @@
-db.sqllite
+db.sqlite3
 .env
 PipFile
 PipFile.lock
