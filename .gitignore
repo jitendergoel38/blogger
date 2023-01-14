@@ -3,4 +3,5 @@ db.sqlite3
 PipFile
 PipFile.lock
 .DS_Store
-djblogger/settings/local.py
+local.py
+.vscode

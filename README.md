@@ -13,4 +13,12 @@ Following steps:
         1. for testing purpose
         2. ```pytest``` in the terminal runs the pytest.
         3. create pytest.ini file
-        4.
+        4
+    6. import black
+        1. black is a formatting tool... it formats the code as per pep8 formatting..
+    7. flake8:
+        1. for ```LINTING``` 
+        2. Linting is an automated checking of your source code for programming errors and bugs.
+        3. there're majorlty 2 linting tools viz., ```flak8``` and ```pilint```
+        4. We install flak8.
+    8. 
