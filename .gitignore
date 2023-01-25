@@ -5,3 +5,7 @@ PipFile.lock
 .DS_Store
 local.py
 .vscode
+.coverage
+*.md
+__pycache__
+.pytest_cache
