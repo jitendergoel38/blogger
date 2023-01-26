@@ -8,6 +8,3 @@ from .models import Post
 class HomeView(ListView):
     model = Post
     template_name = "blog/index.html"
-
-    # def post(self):
-    #     pass
